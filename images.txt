@@ -1,6 +1,2 @@
 tznb/twonav:latest
 tznb/twonav:20240513
-tznb/twonav:20240509
-tznb/twonav:20240330
-tznb/twonav:20240320
-tznb/twonav:20231031
