@@ -1,5 +1,5 @@
 tznb/twonav:latest
 tznb/twonav:20240513
 tznb/twonav:20240923
-tznb/twonav:arm
+--platform=linux/arm64 tznb/twonav:arm
 nyanmisaka/jellyfin:240401-amd64
