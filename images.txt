@@ -1,3 +1,4 @@
 tznb/twonav:latest
 tznb/twonav:20240513
+tznb/twonav:20240923
 nyanmisaka/jellyfin:240401-amd64
